@@ -1,0 +1,7 @@
+#Thu Dec 29 10:45:03 PST 2016
+base.0=/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c6f78d109358d7465ad90ff78a4ef1a3cdeea18
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d942c4e00b2da902f1021f91be3805b93ac5c43/classes.dex
+base.1=/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d942c4e00b2da902f1021f91be3805b93ac5c43
+file.0=/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c6f78d109358d7465ad90ff78a4ef1a3cdeea18/classes.dex

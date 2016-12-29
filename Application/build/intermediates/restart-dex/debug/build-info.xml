@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="25"
+    density="560dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="248138697417184"
+    token="2611090537617705904"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="213" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="51" />
+    <task
+        name="verifier"
+        duration="3" />
+
+    <artifact
+        location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+    <artifact
+        location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+        type="DEX" />
+    <artifact
+        location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="247370153570383"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="248138697417184"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="1038676970904796"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

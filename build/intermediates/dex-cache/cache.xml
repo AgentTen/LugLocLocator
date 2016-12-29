@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_4504d0d9420746bc0f06b235953125cf3b7b61bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_8bad836dd1767424b683ae5653b726f505b0103c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_6038af94a9b1ac8c7afe4f44162a49997bef6b22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_3fb060b39f13aeb40003c4fbe913bb5dec1960c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_9cc40d06071f6b08da639bd98d2dbad159ea151f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_7de46ee2d4d56a969b9c55a6979be127a37e4d72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_e491da26102dba59cad1c2a068c46eab258dff85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8d7afbda25f2ea4394a52fff9fed78477ef6143">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_1c6f78d109358d7465ad90ff78a4ef1a3cdeea18/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_66dbe1fe8c17575acd738382d8db2cb0ef66dd46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_8783ecf67fc7dd25b4d93c56f1596143421e1580/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_c460791d03da3c9c7b233b805081f1d943b82bbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_0e1ee662c19a1f7f470e3d07cd565bb4fd946040/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_673a36e3305d3d6658f5b5d005b033e0186f9824/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_44a696383f2cd0b5742c601ade5640a04a1d517f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8caff8b8e6ccf0a8d1d769d31a49838069706b4f">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7d942c4e00b2da902f1021f91be3805b93ac5c43/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3a63d9cbb5368da838ee88a9233fa95f7cd22a61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_849108282e359eb987187ddcd622f284be2d934e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d9c0c62f3706dc5e9e4603e4f69e8ed1a2c599e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_db26e6d6d1299b1faf5af7755b9478a07d8bed2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_5cbb81a2a7154d26f454ecaba73eaaec029045d0/classes.dex" />
+    </item>
+
+</items>
