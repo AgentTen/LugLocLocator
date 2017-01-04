@@ -3,120 +3,165 @@
 
     <item
         is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_69744ba5627740111df1fe53ef39f479be2dea20/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_1c6806c503f4c9368cd51214e87e6c0e7cbd49b4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_577b0f7389edc8a505add64fc038314b27ad6fb2/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a0d44a009698f079d14f64493b02310fb3ea615c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_9a371e26efd9d15bc12a9e78951ac6a1c53d0f06/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_d85285a1713157cda7a8f713cf7c911f272b935d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d92ded3f7e75cc115cdb9b38fc6fc4bef890c253/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bcbd10291938c45607cac223f6ff753fe516d28e">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c66cc33c76f33f0476666b7339c6f29683d9e142/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_a0919aab6520c7077de4a4e0f60f894e9cc711d6/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_3a92184e557eebc55c6af00ccb698c839ff2256e/classes.dex" />
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v13-25.0.1_3d6ecc6d06ea612b686fb75f21044159cddee721/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_8cbdc6c571e829828a57f0ef397d2e5bae5e5c46/classes.dex" />
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_05603f078c233f1cae508f20a78c2924ea18c7da/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_5638d1a99ed6b2abba2fcf98550e22d6b0ff8621/classes.dex" />
+        sha1="894a1656d62f2ace6cf07862d16098ebfd78eb0a">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b934931dd27415e07b1dc4619d8ac33b941a2f4a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_219201ce1b9dddfd6824c0060e9e3f058a268725/classes.dex" />
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_4d840920ef68b69910c90b3599d88b44bf50778d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-25.0.1_9faf3d74971e21c244f63dd3809189474881b40e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be28098bf8e5718f26c0828a0174765f3ec9200f">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1d3d5b3b6ef55b4407f6401e78a64f3b988eb5c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_60e9224b16f28bc3b743198e5df14591930a72b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_fe3391d0df374bde2955061c75952d28a8dd1c52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_b441c30e70f9036db87c39200c8bf31c169c240a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_f34fbf4946e86ae6d39e186787bea2081d2bc259/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_fda37cef11b5a13c85b49a28064aaa97d911a374/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.akexorcist/RoundCornerProgressBar/2.0.3/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-RoundCornerProgressBar-2.0.3_aa6d38d7686841c12fee9fedc4887f219b6c4924/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2d4a439c0c2845bc7112df3ef629c4e4f2028ab7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_51ed12940d820f00802e28c598f67f4ec59de6cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_421a17345386f84c2faa0d2c555f4ed4aac4819e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_102b90a0ceff766d2ba52a35fa75f49c0bb8f061/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_2a6a6a803bc4bc72b899f4e8eedd59b77376330f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a46bac06b825597c1150774505cac3154ed92d10/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -125,70 +170,25 @@
         optimize="true"
         revision="25.0.2"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_849108282e359eb987187ddcd622f284be2d934e/classes.dex" />
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_849108282e359eb987187ddcd622f284be2d934e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="8c816f6f61cc1f86ce74c2d157de2cd22cdfa9e9">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eddfec12a7ed3e3b6558fbdb466fc91fafc67f96/classes.dex" />
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_07023549739acc6e10d4463a2332383f68740a79/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jar="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_ee48eaa7ac37bbcb5661f6142b9bc0b2d2297bb4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_3db80b95c5c76527950570cd14e23a02057226f5/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_6d658330ac99e01c00ebef112f1a49048953c3c1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_ed05624d6de122231c6a3c7cd40c7dfbb102b904/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_2cf6dfa5d2b3fca99fa65c14d812022ce0c3f9ec/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.akexorcist/RoundCornerProgressBar/2.0.3/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="88c6386ad8356b89487b43bcaae4827b1abe999c">
-        <dex dex="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.akexorcist-RoundCornerProgressBar-2.0.3_43a7ab520cf997b72392e8ce03ef10209000919c/classes.dex" />
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_c87aa92e8f9f197751da2ce4396623b73d4aa9c2/classes.dex" />
     </item>
 
 </items>

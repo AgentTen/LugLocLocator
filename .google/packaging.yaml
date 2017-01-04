@@ -9,7 +9,7 @@ technologies: [Android]
 categories:   [Connectivity]
 languages:    [Java]
 solutions:    [Mobile]
-github:       android-BluetoothLeGatt
+github:       LugLocLocator
 level:        ADVANCED
 icon:         screenshots/icon-web.png
 apiRefs:

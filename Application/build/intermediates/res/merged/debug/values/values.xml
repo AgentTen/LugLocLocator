@@ -362,18 +362,18 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <string name="airtrace_found">AirTrace found.</string>
-    <string name="app_name">BluetoothLeGatt</string>
+    <string name="app_name">LugLocLocator</string>
     <string name="ble_not_supported">BLE is not supported</string>
     <string name="connected">Connected</string>
+    <string name="device_found">Device found.</string>
     <string name="disconnected">Disconnected</string>
     <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
     <string name="intro_message">
         
         
             
-            This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-            to transmit arbitrary data between devices.
+            This is just a basic app that demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
+to find the nearest LugLoc devices and get their bluetooth IDs.
             
         
         
@@ -381,7 +381,7 @@
     <string name="label_data">Data:</string>
     <string name="label_device_address">Device address:</string>
     <string name="label_state">State:</string>
-    <string name="looking_for_airtrace">Looking for nearest Airtrace. Please hold phone close to package.</string>
+    <string name="looking_for_device">Looking for nearest device. Please hold phone close to device.</string>
     <string name="menu_connect">Connect</string>
     <string name="menu_disconnect">Disconnect</string>
     <string name="menu_scan">Scan</string>

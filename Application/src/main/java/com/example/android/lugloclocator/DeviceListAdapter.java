@@ -1,4 +1,4 @@
-package com.example.android.bluetoothlegatt;
+package com.example.android.lugloclocator;
 
 import android.content.Context;
 import android.graphics.Color;
@@ -18,7 +18,7 @@ import java.util.Map;
  * Created by ryanfarley on 12/29/16.
  */
 
-public class AirTraceListAdapter extends ArrayAdapter<String> {
+public class DeviceListAdapter extends ArrayAdapter<String> {
 
     private static class ViewHolder {
         RoundCornerProgressBar signalStrength;
@@ -31,8 +31,8 @@ public class AirTraceListAdapter extends ArrayAdapter<String> {
     private Map<String, Integer> mRssi = new HashMap<String, Integer>();
     private Map<String, String> mName = new HashMap<String, String>();
 
-    public AirTraceListAdapter(Context context) {
-        super(context, R.layout.airtrace_list_item);
+    public DeviceListAdapter(Context context) {
+        super(context, R.layout.device_list_item);
         mInflator = (LayoutInflater)context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
     }
 
@@ -78,7 +78,7 @@ public class AirTraceListAdapter extends ArrayAdapter<String> {
         ViewHolder viewHolder;
         // General ListView optimization code.
         if (view == null) {
-            view = mInflator.inflate(R.layout.airtrace_list_item, viewGroup, false);
+            view = mInflator.inflate(R.layout.device_list_item, viewGroup, false);
             viewHolder = new ViewHolder();
             viewHolder.signalStrength = (RoundCornerProgressBar) view.findViewById(R.id.signal_strength);
             viewHolder.deviceAddress = (TextView) view.findViewById(R.id.device_address);

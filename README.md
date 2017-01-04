@@ -1,16 +1,15 @@
 
-Android BluetoothLeGatt Sample
+Android LugLoc Locator
 ===================================
 
-This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-to transmit arbitrary data between devices.
+This is just a basic app that demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
+to find the nearest LugLoc devices and get their bluetooth IDs.
 
 Introduction
 ------------
 
-This sample shows a list of available Bluetooth LE devices and provides
-an interface to connect, display data and display GATT services and
-characteristics supported by the devices.
+This sample shows a list of available LugLoc Bluetooth LE devices and provides
+an interface to get the bluetooth IDs associated with the devices.
 
 It creates a [Service][1] for managing connection and data communication with a GATT server
 hosted on a given Bluetooth LE device.
@@ -30,7 +29,7 @@ Pre-requisites
 Screenshots
 -------------
 
-<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-detail.png" height="400" alt="Screenshot"/> 
+<img src="screenshots/1-main.png" height="400" alt="Screenshot"/> <img src="screenshots/2-detail.png" height="400" alt="Screenshot"/>
 
 Getting Started
 ---------------
@@ -45,7 +44,7 @@ Support
 - Stack Overflow: http://stackoverflow.com/questions/tagged/android
 
 If you've found an error in this sample, please file an issue:
-https://github.com/googlesamples/android-BluetoothLeGatt
+https://github.com/AgentTen/LugLocLocator
 
 Patches are encouraged, and may be submitted by forking this project and
 submitting a pull request through GitHub. Please see CONTRIBUTING.md for more details.

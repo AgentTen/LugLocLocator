@@ -5,32 +5,32 @@
     density="560dpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="349179455333441"
-    token="2611090537617705904"
+    timestamp="407865892461153"
+    token="-3416315210618062492"
     verifier="FULL_BUILD_REQUESTED" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="215" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="89" />
     <task
         name="verifier"
-        duration="0" />
+        duration="17" />
 
     <artifact
-        location="/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/outputs/apk/Application-debug.apk"
+        location="/Users/ryanfarley/Developer/LugLocLocator/Application/build/outputs/apk/Application-debug.apk"
         type="MAIN" />
 
     <build
-        timestamp="1038676970904796"
+        timestamp="407865892461153"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
-            location="/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/outputs/apk/Application-debug.apk"
+            location="/Users/ryanfarley/Developer/LugLocLocator/Application/build/outputs/apk/Application-debug.apk"
             type="MAIN" />
     </build>
 

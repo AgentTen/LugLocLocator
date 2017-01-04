@@ -16,13 +16,13 @@
 -->
 
 <resources>
-    <string name="app_name">BluetoothLeGatt</string>
+    <string name="app_name">LugLocLocator</string>
     <string name="intro_message">
         <![CDATA[
         
             
-            This sample demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
-            to transmit arbitrary data between devices.
+            This is just a basic app that demonstrates how to use the Bluetooth LE Generic Attribute Profile (GATT)
+to find the nearest LugLoc devices and get their bluetooth IDs.
             
         
         ]]>

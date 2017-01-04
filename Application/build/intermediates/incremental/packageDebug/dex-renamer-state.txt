@@ -1,7 +1,7 @@
-#Tue Jan 03 17:25:28 PST 2017
-base.0=/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eddfec12a7ed3e3b6558fbdb466fc91fafc67f96
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c66cc33c76f33f0476666b7339c6f29683d9e142/classes.dex
-base.1=/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c66cc33c76f33f0476666b7339c6f29683d9e142
-file.0=/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_eddfec12a7ed3e3b6558fbdb466fc91fafc67f96/classes.dex
+#Wed Jan 04 10:47:20 PST 2017
+base.0=/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b934931dd27415e07b1dc4619d8ac33b941a2f4a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1d3d5b3b6ef55b4407f6401e78a64f3b988eb5c/classes.dex
+base.1=/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d1d3d5b3b6ef55b4407f6401e78a64f3b988eb5c
+file.0=/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b934931dd27415e07b1dc4619d8ac33b941a2f4a/classes.dex

@@ -1,18 +1,10 @@
 [
     {
-        "merged": "/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
-        "source": "/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/src/main/res/menu/gatt_services.xml"
+        "merged": "/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/ryanfarley/Developer/LugLocLocator/Application/src/main/res/menu/gatt_services.xml"
     },
     {
-        "merged": "/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/ryanfarley/Downloads/android-BluetoothLeGatt-master/Application/src/main/res/menu/main.xml"
-    },
-    {
-        "merged": "/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/menu/gatt_services.xml",
-        "source": "/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/src/main/res/menu/gatt_services.xml"
-    },
-    {
-        "merged": "/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/res/merged/debug/menu/main.xml",
-        "source": "/Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/src/main/res/menu/main.xml"
+        "merged": "/Users/ryanfarley/Developer/LugLocLocator/Application/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/ryanfarley/Developer/LugLocLocator/Application/src/main/res/menu/main.xml"
     }
 ]
