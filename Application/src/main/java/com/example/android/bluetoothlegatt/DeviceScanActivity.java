@@ -27,38 +27,23 @@ import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
 import android.util.Log;
+import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
-
-import java.util.ArrayList;
-import java.util.Collections;
 
 /**
  * Activity for scanning and displaying available Bluetooth LE devices.
  */
 public class DeviceScanActivity extends Activity {
 
-    private class DeviceContainer implements Comparable<DeviceContainer> {
-        private BluetoothDevice device;
-        private int rssi;
+    ListView listView;
+    TextView textView;
 
-        public DeviceContainer(BluetoothDevice device, int rssi) {
-            this.device = device;
-            this.rssi = rssi;
-        }
-
-        @Override
-        public int compareTo(DeviceContainer deviceContainer) {
-            return Double.compare(deviceContainer.rssi, this.rssi);
-        }
-    }
-
-    private ArrayList<DeviceContainer> mDeviceContainers;
+    private AirTraceListAdapter airTraceListAdapter;
     private BluetoothAdapter mBluetoothAdapter;
     private boolean mDisplayInitialMessage = true;
     private boolean mScanningComplete = false;
     private static final int REQUEST_ENABLE_BT = 1;
-
     private static final int MY_PERMISSIONS_REQUEST_LOCATION = 2000;
 
     @Override
@@ -66,9 +51,12 @@ public class DeviceScanActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_air_trace);
 
-        mDeviceContainers = new ArrayList<>();
+        textView = (TextView) findViewById(R.id.textView);
+        listView = (ListView) findViewById(R.id.list);
+        airTraceListAdapter = new AirTraceListAdapter(this);
+        listView.setAdapter(airTraceListAdapter);
 
-        // Use this check to determine whether BLE is supported on the device.  Then you can
+        // Use this check to determine whether BLE is supported on the   device.  Then you can
         // selectively disable BLE-related features.
         if (!getPackageManager().hasSystemFeature(PackageManager.FEATURE_BLUETOOTH_LE)) {
             Toast.makeText(this, R.string.ble_not_supported, Toast.LENGTH_SHORT).show();
@@ -104,7 +92,6 @@ public class DeviceScanActivity extends Activity {
             startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
         }
 
-        TextView textView = (TextView) findViewById(R.id.textView);
         textView.setText(R.string.looking_for_airtrace);
 
         scanLeDevice(true);
@@ -169,7 +156,6 @@ public class DeviceScanActivity extends Activity {
     protected void onPause() {
         super.onPause();
         scanLeDevice(false);
-        TextView textView = (TextView) findViewById(R.id.textView);
         textView.setText(R.string.looking_for_airtrace);
     }
 
@@ -207,28 +193,11 @@ public class DeviceScanActivity extends Activity {
         mBluetoothAdapter.stopLeScan(mLeScanCallback);
     }
 
-    private void addDeviceContainer(BluetoothDevice device, int rssi) {
-        for (DeviceContainer container : mDeviceContainers) {
-            if (container.device.getName().equals(device.getName())) {
-                container.rssi = rssi;
-                Collections.sort(mDeviceContainers);
-                updateUI();
-                return;
-            }
-        }
-        mDeviceContainers.add(new DeviceContainer(device, rssi));
-        Collections.sort(mDeviceContainers);
-        updateUI();
-    }
-
     private void updateUI() {
         if (mScanningComplete) {
-            TextView textView = (TextView) findViewById(R.id.textView);
             textView.setText(R.string.airtrace_found);
         } else if (!mDisplayInitialMessage) {
-            DeviceContainer closestDevice = mDeviceContainers.get(0);
-            TextView textView = (TextView) findViewById(R.id.textView);
-            textView.setText("Searching..." + closestDevice.device.getName() + " " + String.valueOf(closestDevice.rssi));
+            textView.setText("Searching...");
         }
     }
 
@@ -242,7 +211,7 @@ public class DeviceScanActivity extends Activity {
                     final String deviceName = device.getName();
                     if (deviceName != null && deviceName.startsWith("LUGLOC")) {
                         Log.v("LUGLOC", deviceName);
-                        addDeviceContainer(device, rssi);
+                        airTraceListAdapter.addDevice(device.getAddress(), deviceName, rssi);
                     }
                 }
             });

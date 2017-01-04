@@ -79,6 +79,7 @@ MERGED from [com.android.support:support-core-utils:25.0.1] /Users/ryanfarley/De
 MERGED from [com.android.support:animated-vector-drawable:25.0.1] /Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:25.0.1] /Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:support-compat:25.0.1] /Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.akexorcist:RoundCornerProgressBar:2.0.3] /Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.akexorcist/RoundCornerProgressBar/2.0.3/AndroidManifest.xml:8:5-10:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-v13:25.0.1] /Users/ryanfarley/Developer/android-BluetoothLeGatt-master/Application/build/intermediates/exploded-aar/com.android.support/support-v13/25.0.1/AndroidManifest.xml:23:9-52
 	android:targetSdkVersion

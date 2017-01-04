@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <com.akexorcist.roundcornerprogressbar.RoundCornerProgressBar
+        android:id="@+id/signal_strength"
+        android:layout_gravity="center"
+        android:layout_width="250dp"
+        android:layout_height="30dp"
+        app:rcBackgroundColor="@color/light_gray"
+        app:rcBackgroundPadding="0dp"
+        app:rcMax="100"
+        app:rcProgress="0"
+        app:rcRadius="4dp"
+        app:rcProgressColor="@color/colorPrimary"/>
+    <TextView android:id="@+id/device_name"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24dp"
+        android:paddingBottom="15dp"/>
+    <TextView android:id="@+id/device_address"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="0dip"
+        android:textSize="12dp"/>
+</LinearLayout>
